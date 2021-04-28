@@ -18,7 +18,7 @@ output: html_document
 ---
 
 **Step 1
-***Code for reading in the dataset
+**Code for reading in the dataset
 ```{r, echo = TRUE}
 setwd("/home/eric/Escritorio/Coursera_Reproducible_Research")
 activity<-read.csv("activity.csv")
